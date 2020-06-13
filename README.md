@@ -17,3 +17,9 @@
 ## StackExchange
 
 * ### [stackexchange.com/users/18839772/salif-mehmed](https://stackexchange.com/users/18839772/salif-mehmed?tab=accounts)
+
+## Other
+
+* ### [spectrum.chat/users/salifm](https://spectrum.chat/users/salifm?tab=posts)
+* ### [news.ycombinator.com/user?id=salifm](https://news.ycombinator.com/user?id=salifm)
+* ### [10fastfingers.com/user/1849490](https://10fastfingers.com/user/1849490)
