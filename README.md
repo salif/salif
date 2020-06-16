@@ -15,6 +15,7 @@
 * ### [npmjs.com/~salifm](https://www.npmjs.com/~salifm)
 * ### [sourceforge.net/u/salifm/profile](https://sourceforge.net/u/salifm/profile)
 * ### [aur.archlinux.org/account/salifm](https://aur.archlinux.org/account/salifm)
+* ### [launchpad.net/~salifm](https://launchpad.net/~salifm)
 
 ## Social
 
@@ -38,3 +39,10 @@
 * ### [hackerrank.com/salifm](https://www.hackerrank.com/salifm)
 * ### [spectrum.chat/users/salifm](https://spectrum.chat/users/salifm?tab=posts)
 * ### [10fastfingers.com/user/1849490](https://10fastfingers.com/user/1849490)
+* ### [keybase.io/salifm_](https://keybase.io/salifm_)
+
+## Crypto
+
+* ### bitcoin: 1D1yDKrpRPn1N4fUDkpji2kRdvsVfGdHc1
+* ### ethereum: 0x114a49793A64c3F45C233e49E99850b62b8aFAB3
+* ### stellar: GAOEEKMDLWGTIYGUDJUSL64PLOYIF6VOTSOAGSUFCJYHRWNUQWAVWV7M
