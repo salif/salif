@@ -1,4 +1,4 @@
-# List of my dev-related accounts
+# Salif Mehmed
 
 ## Git
 
