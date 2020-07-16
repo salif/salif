@@ -31,9 +31,12 @@
 * ### [news.ycombinator.com/user?id=salifm](https://news.ycombinator.com/user?id=salifm)
 * ### [stackoverflow.com/users/13741556/salif-mehmed](https://stackoverflow.com/users/13741556/salif-mehmed)
 
-## Other
+## Chat
 
 * ### [keybase.io/salifm_](https://keybase.io/salifm_)
 * ### [spectrum.chat/users/salifm](https://spectrum.chat/users/salifm?tab=posts)
+
+## Other
+
 * ### [hackerrank.com/salifm](https://www.hackerrank.com/salifm)
 * ### [10fastfingers.com/user/1849490](https://10fastfingers.com/user/1849490)
