@@ -1,1 +1,1 @@
-[List of my projects](./projects.md)
+[List of my projects](https://github.com/salifm/salifm/blob/salifm/projects.md)
