@@ -1,1 +1,3 @@
-[List of my projects](https://github.com/salifm/salifm/blob/salifm/projects.md)
+```
+    Welcome to my GitHub profile!
+```

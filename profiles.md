@@ -37,3 +37,7 @@
 * ### [spectrum.chat/users/salifm](https://spectrum.chat/users/salifm?tab=posts)
 * ### [hackerrank.com/salifm](https://www.hackerrank.com/salifm)
 * ### [10fastfingers.com/user/1849490](https://10fastfingers.com/user/1849490)
+
+---
+
+[See also list of my projects](./projects.md)
