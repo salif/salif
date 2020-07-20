@@ -4,15 +4,13 @@
 
 * ### [github.com/salifm](https://github.com/salifm)
 * ### [codeberg.org/salifm](https://codeberg.org/salifm)
+* ### [gitee.com/salifm](https://gitee.com/salifm)
+* ### [gitea.com/salifm](https://gitea.com/salifm)
+* ### [opencode.net/salifm](https://www.opencode.net/salifm)
+* ### [git.teknik.io/salifm](https://git.teknik.io/salifm)
 * ### [gitlab.com/salifm](https://gitlab.com/salifm)
 * ### [gitlab.gnome.org/salifm](https://gitlab.gnome.org/salifm)
-* ### [gitee.com/salifm](https://gitee.com/salifm)
-* ### [opencode.net/salifm](https://www.opencode.net/salifm)
-* ### [source.joinmastodon.org/salifm](https://source.joinmastodon.org/salifm)
-* ### [git.teknik.io/salifm](https://git.teknik.io/salifm)
-* ### [git.tchncs.de/salifm](https://git.tchncs.de/salifm)
-* ### [gitea.com/salifm](https://gitea.com/salifm)
-* ### [bitbucket.org/salifm](https://bitbucket.org/salifm)
+
 
 ## Package Managers
 
@@ -40,4 +38,4 @@
 
 ---
 
-[See also list of my projects](./projects.md)
+[See list of my projects](./projects.md)

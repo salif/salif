@@ -32,4 +32,4 @@
 
 ---
 
-[See also list of my profiles](./profiles.md)
+[See list of my profiles](./profiles.md)
