@@ -25,13 +25,11 @@
 
 ## Social/Forums/Blogs
 
+* ### [hashnode.com/@salifm](https://hashnode.com/@salifm)
 * ### [linkedin.com/in/salifm](https://www.linkedin.com/in/salifm)
 * ### [mastodon.online/@salifm](https://mastodon.online/@salifm)
 * ### [social.tchncs.de/@salifm](https://social.tchncs.de/@salifm)
-* ### [medium.com/@salifm](https://medium.com/@salifm)
-* ### [hashnode.com/@salifm](https://hashnode.com/@salifm)
 * ### [news.ycombinator.com/user?id=salifm](https://news.ycombinator.com/user?id=salifm)
-* ### [stackoverflow.com/users/13741556/salif-mehmed](https://stackoverflow.com/users/13741556/salif-mehmed)
 
 ## Other
 
