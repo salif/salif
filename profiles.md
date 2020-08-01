@@ -5,15 +5,13 @@
 * ### [github.com/salifm](https://github.com/salifm)
 * ### [codeberg.org/salifm](https://codeberg.org/salifm)
 * ### [gitea.com/salifm](https://gitea.com/salifm)
-* ### [opencode.net/salifm](https://www.opencode.net/salifm)
 * ### [gitee.com/salifm](https://gitee.com/salifm)
-* ### [git.teknik.io/salifm](https://git.teknik.io/salifm)
 * <details><summary>inactive</summary><ul>
 <li><a href="https://gitlab.com/salifm">gitlab.com/salifm</a></li>
 <li><a href="https://bitbucket.org/salifm">bitbucket.org/salifm</a></li>
+<li><a href="https://www.opencode.net/salifm">opencode.net/salifm</a></li>
+<li><a href="https://git.teknik.io/salifm">git.teknik.io/salifm</a></li>
 <li><a href="https://gitlab.gnome.org/salifm">gitlab.gnome.org/salifm</a></li>
-<li><a href="https://git.tchncs.de/salifm">git.tchncs.de/salifm</a></li>
-<li><a href="https://source.joinmastodon.org/salifm">source.joinmastodon.org/salifm</a></li>
 </ul></details>
 
 ## Package Managers
@@ -27,8 +25,6 @@
 
 * ### [hashnode.com/@salifm](https://hashnode.com/@salifm)
 * ### [linkedin.com/in/salifm](https://www.linkedin.com/in/salifm)
-* ### [mastodon.online/@salifm](https://mastodon.online/@salifm)
-* ### [social.tchncs.de/@salifm](https://social.tchncs.de/@salifm)
 * ### [news.ycombinator.com/user?id=salifm](https://news.ycombinator.com/user?id=salifm)
 
 ## Other
