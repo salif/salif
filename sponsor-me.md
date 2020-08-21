@@ -18,7 +18,6 @@
 GAOEEKMDLWGTIYGUDJUSL64PLOYIF6VOTSOAGSUFCJYHRWNUQWAVWV7M
 ```
 
----
-
-<!-- https://getinsights.io -->
-<![CDATA[<script src="//getinsights.io/static/js/insights.js"></script><script>insights.init('fc3XLmlsMDc_fWlD');insights.trackPages();</script><!--]]>
+<div style="display:none">
+<![CDATA[<script src="https://getinsights.io/static/js/insights.js"></script><script>insights.init('fc3XLmlsMDc_fWlD');insights.trackPages();</script><!--]]>
+</div>
