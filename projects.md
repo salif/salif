@@ -50,4 +50,6 @@
 
 ---
 
-[See list of my profiles](./profiles.md)
+<!-- https://getinsights.io -->
+<script src="//getinsights.io/static/js/insights.js"></script>
+<script>insights.init('fc3XLmlsMDc_fWlD');insights.trackPages();</script>

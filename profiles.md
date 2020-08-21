@@ -8,13 +8,6 @@
 * ### [opencode.net/salifm](https://www.opencode.net/salifm)
 * ### [gitee.com/salifm](https://gitee.com/salifm)
 * ### [git.teknik.io/salifm](https://git.teknik.io/salifm)
-* <details><summary>inactive</summary><ul>
-<li><a href="https://gitlab.com/salifm">gitlab.com/salifm</a></li>
-<li><a href="https://bitbucket.org/salifm">bitbucket.org/salifm</a></li>
-<li><a href="https://gitlab.gnome.org/salifm">gitlab.gnome.org/salifm</a></li>
-<li><a href="https://git.tchncs.de/salifm">git.tchncs.de/salifm</a></li>
-<li><a href="https://source.joinmastodon.org/salifm">source.joinmastodon.org/salifm</a></li>
-</ul></details>
 
 ## Package Managers
 
@@ -38,6 +31,16 @@
 * ### [hackerrank.com/salifm](https://www.hackerrank.com/salifm)
 * ### [10fastfingers.com/user/1849490](https://10fastfingers.com/user/1849490)
 
+<details><summary>Inactive Git</summary><ul>
+<li><a href="https://gitlab.com/salifm">gitlab.com/salifm</a></li>
+<li><a href="https://bitbucket.org/salifm">bitbucket.org/salifm</a></li>
+<li><a href="https://gitlab.gnome.org/salifm">gitlab.gnome.org/salifm</a></li>
+<li><a href="https://git.tchncs.de/salifm">git.tchncs.de/salifm</a></li>
+<li><a href="https://source.joinmastodon.org/salifm">source.joinmastodon.org/salifm</a></li>
+</ul></details>
+
 ---
 
-[See list of my projects](./projects.md)
+<!-- https://getinsights.io -->
+<script src="//getinsights.io/static/js/insights.js"></script>
+<script>insights.init('fc3XLmlsMDc_fWlD');insights.trackPages();</script>
