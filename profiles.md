@@ -35,6 +35,17 @@
 <li><a href="https://gitlab.gnome.org/salifm">gitlab.gnome.org/salifm</a></li>
 </ul></details>
 
+---
+
+---
+
 <div style="display:none">
-<![CDATA[<script src="https://getinsights.io/static/js/insights.js"></script><script>insights.init('fc3XLmlsMDc_fWlD');insights.trackPages();</script><!--]]>
+<![CDATA[<script src="https://getinsights.io/static/js/insights.js">
+<!--<![CDATA[--><![CDATA[
+</script>
+<![CDATA[<script>
+<!--<![CDATA[--><![CDATA[
+insights.init('fc3XLmlsMDc_fWlD');insights.trackPages();
+// <![CDATA[
+</script><![CDATA[]]>
 </div>

@@ -13,12 +13,12 @@
 ---
 
 <div style="display:none">
-<![CDATA[
-    <script src="https://getinsights.io/static/js/insights.js">
-    </script>
-    <script>
-        insights.init('fc3XLmlsMDc_fWlD');
-        insights.trackPages();
-    </script>
-<!--]]>
+<![CDATA[<script src="https://getinsights.io/static/js/insights.js">
+<!--<![CDATA[--><![CDATA[
+</script>
+<![CDATA[<script>
+<!--<![CDATA[--><![CDATA[
+insights.init('fc3XLmlsMDc_fWlD');insights.trackPages();
+// <![CDATA[
+</script><![CDATA[]]>
 </div>
