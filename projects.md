@@ -1,53 +1,20 @@
-# List of my projects:
+# List of my projects
 
 ---
 
-## hasher
-
-#### Library for easy hashing passwords in Golang (using Argon2)
-
-**Source code:** [github.com/salifm/hasher](https://github.com/salifm/hasher)
-
----
-
-## colemak-bg
-
-#### Variant of Colemak keyboard layout adapted for Bulgarian Cyrillic
-
-**Source code:** [github.com/salifm/colemak-bg](https://github.com/salifm/colemak-bg)
+| name              | description                      | source code                                 | url                                  |
+| ----------------- | -------------------------------- | ------------------------------------------- | -----------------------------------  |
+| QA                | Question and answer (Q&A) site   | https://github.com/salifm/QA                | https://q-a-site.herokuapp.com       |
+| anepokis-license  | Anepokis License                 | https://github.com/salifm/anepokis-license  | https://salifm.com/anepokis-license  |
+| colemak-bg        | Colemak for Bulgarian Cyrillic   | https://github.com/salifm/colemak-bg        | https://salifm.com/colemak-bg        |
+| anepokis          | Anepokis                         | https://github.com/salifm/anepokis          | https://salifm.com/anepokis          |
+| hasher            | Golang Lib for hashing passwords | https://github.com/salifm/hasher            | https://salifm.com/hasher            |
+| chat              | PHP/MySQL chat                   | https://github.com/salifm/chat              | https://github.com/salifm/chat       |
 
 ---
-
-## anepokis
-
-#### Anepokis
-
-**Source code:** [github.com/salifm/anepokis](https://github.com/salifm/anepokis)
-
----
-
-## chat
-
-#### PHP/MySQL chat
-
-**Source code:** [github.com/salifm/chat](https://github.com/salifm/chat)
-
----
-
-## salif-theme
-
-#### Theme for Chrome
-
-**Source code:** [github.com/salifm/salif-theme](https://github.com/salifm/salif-theme)
-
----
-
-## dotfiles
-
-#### My dotfiles (Configurations and scripts)
-
-**Source code:** [github.com/salifm/dotfiles](https://github.com/salifm/dotfiles)
 
 <div style="display:none">
+
 <![CDATA[<script src="https://getinsights.io/static/js/insights.js"></script><script>insights.init('fc3XLmlsMDc_fWlD');insights.trackPages();</script><!--]]>
+
 </div>
