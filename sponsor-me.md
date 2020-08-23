@@ -1,8 +1,16 @@
 # Sponsor me
 
-# PayPal
+## PayPal
 
 > [paypal.me/salifsm](https://paypal.me/salifsm)
+
+## Ko_fi
+
+> [ko-fi.com/salifm](https://ko-fi.com/salifm)
+
+## Liberapay
+
+> [liberapay.com/salifm](https://liberapay.com/salifm)
 
 ## Crypto
 
