@@ -1,5 +1,9 @@
 # Sponsor me
 
+# PayPal
+
+> [paypal.me/salifsm](https://paypal.me/salifsm)
+
 ## Crypto
 
 | name | address |
