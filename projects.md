@@ -10,8 +10,6 @@
 | chat | PHP/MySQL chat | [github.com/salifm/chat](https://github.com/salifm/chat) | [github.com/salifm/chat](https://github.com/salifm/chat) | MIT |
 | Tetris | Fun & Simple Original tetris | [github.com/salifm/Tetris](https://github.com/salifm/Tetris) | [salifm.com/Tetris](https://salifm.com/Tetris) | |
 
----
-
 <!-- https://getinsights.io -->
 <div style="display:none">
 <![CDATA[<script src="https://getinsights.io/static/js/insights.js">
