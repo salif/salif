@@ -10,7 +10,7 @@
 
 ## Liberapay
 
-> [liberapay.com/salifm](https://liberapay.com/salifm)
+> [liberapay.com/salifm](https://liberapay.com/salifm/donate)
 
 ## Crypto
 
